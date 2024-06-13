@@ -8,5 +8,9 @@ fun main() {
 
 
 
-    fun ()
+    fun sum(a:Float , b:Int) : Double {
+        return  a+b
+    }
+
+    print( sum(3.3,6) )
 }
