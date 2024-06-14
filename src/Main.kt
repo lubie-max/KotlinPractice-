@@ -8,9 +8,9 @@ fun main() {
 
 
 
-    fun sum(a:Float , b:Int) : Double {
-        return  a+b
+    fun printSum(a: Int, b: Int) {
+        println("sum of $a and $b is ${a + b}")
     }
 
-    print( sum(3.3,6) )
+    print( printSum(33,6) )
 }
