@@ -36,7 +36,7 @@ fun main() {
         println(" invalid ")
     }
 
-    val a = 1
+    val a = 20
     val result = when (a) {
         1 -> {
             println("Gold")
@@ -51,5 +51,15 @@ fun main() {
     }
 
     println(result)
+
+
+
+    val x = 10
+    val y = 90
+    if (x in 10..y+1) {
+        println("fits in range")
+    }
+
+    for i in
 
 }
