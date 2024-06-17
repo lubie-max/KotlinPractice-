@@ -50,16 +50,31 @@ fun main() {
         }
     }
 
-    println(result)
+//    println(result)
 
 
 
-    val x = 10
-    val y = 90
-    if (x in 10..y+1) {
-        println("fits in range")
-    }
+//    val x = 10
+//    val y = 90
+//    if (x in 10..y+1) {
+//        println("fits in range")
+//    }
 
 
 //  loops
+    var  i:Int = 2
+//    while (i <= 10){
+//        println("ith val : $i")
+//        i ++
+//    }
+
+    do {
+        println("do while loop i : $i")
+        i++
+    }while (i<10)
+
+
+
+
+
 }
