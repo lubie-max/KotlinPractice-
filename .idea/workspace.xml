@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95e6476b-996c-4a1c-b482-df609b5018dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fuctionsINK.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newC.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lablesAndReturns.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lablesAndReturns.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fuctionsINK.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/fuctionsINK.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kPracticeFile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kPracticeFile.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/playground.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -40,8 +42,10 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Kotlin.FuctionsINKKt.executor": "Run",
+    "Kotlin.KPracticeFileKt.executor": "Run",
     "Kotlin.LablesAndReturnsKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.PlaygroundKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",

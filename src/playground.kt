@@ -1,4 +1,4 @@
-class playground {
+fun main() {
 
 //    loops and ranges
 
@@ -17,6 +17,8 @@ class playground {
 //    if (x in 1..y+1) {
 //        println("fits in range")
 //    }
+
+    range_s()
 
 
 

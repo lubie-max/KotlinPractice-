@@ -11,3 +11,7 @@ val name1: String  = "lubna"
 
 
 }
+
+fun main() {
+println( addTwoVal(3,5) )
+}
