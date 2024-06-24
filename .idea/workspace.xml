@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95e6476b-996c-4a1c-b482-df609b5018dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/newC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fuctionsINK.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/fuctionsINK.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kPracticeFile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kPracticeFile.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +42,7 @@
     "Kotlin.KPracticeFileKt.executor": "Run",
     "Kotlin.LablesAndReturnsKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.PersonKt.executor": "Run",
     "Kotlin.PlaygroundKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
