@@ -1,5 +1,11 @@
 class Person (val name:String , val age:Int) {
 
+
+//    code intializer
+    init {
+        println("this is the init block")
+    }
+
     fun action(){
         println("person walks")
 

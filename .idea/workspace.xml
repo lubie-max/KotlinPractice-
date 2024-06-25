@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95e6476b-996c-4a1c-b482-df609b5018dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employee.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Kotlin.EmployeeKt.executor": "Run",
     "Kotlin.FuctionsINKKt.executor": "Run",
     "Kotlin.KPracticeFileKt.executor": "Run",
     "Kotlin.LablesAndReturnsKt.executor": "Run",
